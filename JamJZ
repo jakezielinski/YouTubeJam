@@ -1,16 +1,14 @@
 <Module specificationVersion='2'>
     <Content type = "html">
-        <![CDATA[
-            <html>
-<header>
-	<title>Abiomed YouTube Channel</title>
-</header>
-<body>
+        <![CDATA[<html>
+		<header>
+			<title>Abiomed YouTube Channel</title>
+		</header>
+		<body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/channel/UCpGodl5oHd6-S1dMY2RaNHg" frameborder="0"></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/channel/UCpGodl5oHd6-S1dMY2RaNHg" frameborder="0"></iframe>
 
-</body>
-</html>
-        ]]>
+		</body>
+	</html>]]>
     </Content>"
 </Module>
